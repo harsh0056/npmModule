@@ -1,0 +1,20 @@
+{
+  "name": "get_aadhar_details",
+  "version": "1.0.0",
+  "description": "fetches aadhar details with the help of tessaract",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aadhar"
+  ],
+  "author": "harsh swami",
+  "license": "ISC",
+  "repository": {
+    "github": "https://github.com/harsh0056/npmModule"
+  },
+  "dependencies": {
+    "tesseract.js": "^4.0.2"
+  }
+}
